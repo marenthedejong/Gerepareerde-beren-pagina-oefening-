@@ -56,16 +56,20 @@ h1{
 
 h2{
   font-family:Georgia;
+      
 }
 
 .top-nav ul{
-	list-style-type:none;
+	list-style-type:none; 
+	text-decoration: none;
+	    
 }
 
 .top-nav ul li{
 	transition: all 300ms ease;
 	left:0px;
 	position:relative;
+	text-decoration: none;
 }
 
 .top-nav ul li:hover{

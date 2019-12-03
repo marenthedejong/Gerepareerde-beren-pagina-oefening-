@@ -2,6 +2,7 @@ body{
 	background-color: #f3f3f3;
 	padding:0;
 	margin:0;
+	font-family:monospace; 
 }
 
 .page {
@@ -70,3 +71,5 @@ h2{
 .top-nav ul li:hover{
 	left: 4px;
 }
+
+
